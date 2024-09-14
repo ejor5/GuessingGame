@@ -1,0 +1,33 @@
+            * + Welcome to Disney Ride Guessing Game + *
+- = I will guess the Disneyland ride that you are thinking of by answering a series of questions = -
+200 Is it a roller coaster? (Y/n)
+160 Is it a dark ride? (Y/n)
+140 Is it a water ride? (Y/n)
+130 Do you go on a rocketship? (Y/n)
+125 You are thinking of Dumbo!
+135 You are thinking of Astro Orbiter!
+150 Does it involve a cruise through the jungles of the world? (Y/n)
+155 You are thinking of Splash Mountain!
+145 You are thinking of Jungle Cruise!
+180 Do you fly in this ride? (Y/n)
+170 Are there Grim Grinning Ghosts there? (Y/n)
+165 You are thinking of the Pirates of the Carribean!
+175 You are thinking of the Haunted Mansion!
+190 Do you go to neverland? (Y/n)
+185 You are thinking of Soarin'!
+195 You are thinking of Peter Pan's Flight!
+240 Is it an inside ride? (Y/n)
+220 Is a mountain involved? (Y/n)
+210 Is a loop involved? (Y/n)
+205 You are thinking of Radiator Springs Racers!
+215 You are thinking of the Incredicoaster!
+230 Is an abomanable snowman involved? (Y/n)
+225 You are thinking of Gadget Go Coaster!
+235 You are thinking of The Matterhorn Bobsleds!
+260 Do you go to space? (Y/n)
+250 Do you enter this ride to save a world renound explorer? (Y/n)
+255 You are thinking of Indiana Jones!
+245 You are thinking of Guardians of the Galaxy!
+270 Does C3PO pilot your ride vehicle? (Y/n)
+265 You are thinking of space mountain!
+275 You are thinking of Star Tours!

@@ -1,0 +1,33 @@
+            * + Welcome to the Food Guessing Game + *
+- = I will guess the food that you are thinking by answering a series of questions = -
+200 Is this a European/American food? (Y/n)
+240 Does this food have sauce? (Y/n)
+260 Is this food mostly bread? (Y/n)
+270 Does this food have pepperoni! (Y/n)
+265 You are thinking of cheese pizza!
+275 You are thinking of pepperoni pizza!
+250 Does this food contain chicken? (Y/n)
+245 You are thinking of spaghetti!
+255 You are thinking of fried chicken!
+220 Does this food contain meat? (Y/n)
+230 Is this food fried? (Y/n)
+225 You are thinking of roast beef!
+235 You are thinking of fried chicken!
+210 Does this food usually contain fruit? (Y/n)
+205 You are thinking of pie!
+215 You are thinking of cake!
+160 Is this a Japanese food? (Y/n)
+180 Does this food mostly consist of noodles? (Y/n)
+190 Does this food commonly have surimi? (Y/n)
+185 You are thinking of udon!
+195 You are thinking of ramen!
+170 Does this food have crab, avocado, and rice? (Y/n)
+165 You are thinking of sushi!
+175 You are thinking of a california roll!
+140 Is this food wrapped in white dough? (Y/n)
+130 Is this food made of duck? (Y/n)
+125 You are thinking of chao mein!
+135 You are thinking of peking duck!
+150 Does this food have pork? (Y/n)
+145 You are thinking of pork dumplings!
+155 You are thinking of steamed pork buns!
